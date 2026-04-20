@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Full-stack web applications using MERN stack<br>- Improving problem-solving skills with DSA<br>🤝 I’m looking to collaborate on<br>- Web development (React, Node.js, Express)<br>- AI-based applications and automation workflows<br>🆘 I’m looking for help with<br>- Advanced system design and scalable backend architecture<br>- VLSI and hardware-level optimizations<br>- Real-world deployment of AI/ML models<br>🌱 I’m currently learning<br>- Machine Learning & AI tools<br>- Cloud platforms (Azure, Google Cloud)<br>- Advanced JavaScript and backend optimization<br>💬 Ask me about<br>- MERN stack development<br>- DSA & problem solving<br>- Embedded systems (ESP32, WiFi modules)<br>- Building automation workflows (n8n)
+🔭 I’m currently working on<br>- Full-stack web applications using MERN stack<br>🤝 I’m looking to collaborate on<br>- AI-based applications and automation workflows<br>🆘 I’m looking for help with<br>- Advanced system design and scalable backend architecture<br>- Real-world deployment of AI/ML models<br>🌱 I’m currently learning<br>- Machine Learning & AI tools<br>💬 Ask me about<br>- Building automation workflows
 
 
 ## 🌐 Socials:
@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shrichackran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shrichackran&icon=5&color=13)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Shrichackran&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ShrichackranKm) 
