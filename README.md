@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>- Full-stack web applications using MERN stack<br>🤝 I’m looking to collaborate on<br>- AI-based applications and automation workflows<br>🆘 I’m looking for help with<br>- Advanced system design and scalable backend architecture<br>- Real-world deployment of AI/ML models<br>🌱 I’m currently learning<br>- Machine Learning & AI tools<br>💬 Ask me about<br>- Building automation workflows
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%7C+ML+Enthusiast;Building+Automation+Workflows" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6qQEd8xu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_s_h_r_i___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrichackran-k-m) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shrichackr12959) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrichackran@gmail.com) 
