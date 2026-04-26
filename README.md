@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Full-stack web applications using MERN stack<br>🤝 I’m looking to collaborate on<br>- AI-based applications and automation workflows<br>🆘 I’m looking for help with<br>- Advanced system design and scalable backend architecture<br>- Real-world deployment of AI/ML models<br>🌱 I’m currently learning<br>- Machine Learning & AI tools<br>💬 Ask me about<br>- Building automation workflows
+🚀 Full-Stack Developer focused on building AI-powered and automation-driven applications.  
+
+🤖 I create real-world solutions by combining backend systems, APIs, and intelligent workflows.  
+
+⚡ Currently exploring scalable AI systems, LLM integrations, and efficient backend architectures.  
+
+💡 Always building, learning, and optimizing for impact.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%7C+ML+Enthusiast;Building+Automation+Workflows" />
 </p>
