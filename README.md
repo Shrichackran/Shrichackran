@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shrichackran.me/">
-    <img src="developer-profile.png" alt="Shrichackran K M Developer Profile" width="100%">
+    <img src="file_00000000a59c71f5bd293378089c938e.png" alt="Shrichackran K M Developer Profile" width="100%">
   </a>
 </p>
 
