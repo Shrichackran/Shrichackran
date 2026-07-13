@@ -116,7 +116,9 @@ I am a **Full Stack Developer and AI/Automation Builder** focused on developing 
   <img src="steve-jobs-wallpaper.png" alt="Steve Jobs quote about looking in the mirror every morning" width="100%">
 </a>
 
-
+<a href="https://shrichackran.me/">
+  <img src="ChatGPT Image Jul 13, 2026, 05_55_36 PM.png" alt="Steve Jobs quote about looking in the mirror every morning" width="100%">
+</a>
 
 ## Building reliable software, learning continuously, and shipping meaningful solutions.
 
