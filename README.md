@@ -94,11 +94,6 @@ I am a **Full Stack Developer and AI/Automation Builder** focused on developing 
 
 </div>
 
-## Design Principle I Keep Coming Back To
-
-<a href="https://shrichackran.me/">
-  <img src="steve-jobs-wallpaper.png" alt="Steve Jobs quote about looking in the mirror every morning" width="100%">
-</a>
 
 ## Contribution Activity
 
@@ -114,7 +109,16 @@ I am a **Full Stack Developer and AI/Automation Builder** focused on developing 
 
 <div align="center">
 
-### Building reliable software, learning continuously, and shipping meaningful solutions.
+  
+## Design Principle I Keep Coming Back To
+
+<a href="https://shrichackran.me/">
+  <img src="steve-jobs-wallpaper.png" alt="Steve Jobs quote about looking in the mirror every morning" width="100%">
+</a>
+
+
+
+## Building reliable software, learning continuously, and shipping meaningful solutions.
 
 [Portfolio](https://shrichackran.me/) •
 [LinkedIn](https://www.linkedin.com/in/shrichackran-k-m/) •
